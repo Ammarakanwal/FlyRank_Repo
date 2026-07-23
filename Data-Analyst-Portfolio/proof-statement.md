@@ -1,0 +1,2 @@
+# Entry-Level Data Analyst turning messy business data into clear decisions using SQL, Python, Excel, and Power BI.
+I build end-to-end analytics projects that clean data, uncover insights, and communicate findings through interactive dashboards and reproducible code.
